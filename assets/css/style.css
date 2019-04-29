@@ -1,0 +1,43 @@
+body {
+    background-image: url(../images/train.jpg)
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+h1{
+	font-family: 'Cinzel', serif;
+	font-size: 90px;
+	margin-top: 30px;
+    margin-bottom: 6px;
+}
+
+.btn {
+    background-color: rgba(68,119,136, 0.90);
+    border: solid 2px rgba(68,119,136, 0.35);
+    font-weight: heavy;
+}
+
+table {
+    margin: 5%;
+}
+
+td, .bg, .bg2 {
+    background-color: rgba(237, 238, 226, 0.80);
+}
+
+.bg {
+    padding: 2%;
+    border-radius: 20px;
+}
+
+.bg2 {
+    border-radius: 20px;
+}
+
+form {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  
+}
